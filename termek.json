@@ -1,0 +1,17 @@
+{
+	"Smartphones": [
+		"Samsung Galaxy S6",
+		"Nexus 6",
+		"iPhone 6"
+	],
+	"Laptops": [
+		"Macbook Pro 13",
+		"Thinkpad T450s",
+		"Asus y50"
+	],
+	"Games": [
+		"GTA V",
+		"Cities: Skylines",
+		"Battlefield 4"
+	]
+}
